@@ -1,0 +1,48 @@
+* {
+   padding:0;
+   margin:0;
+   box-sizing:border-box;
+   font-family:"Poppins",san-senrif;
+    
+}
+contact-box{
+    width :300px;
+    background-color:#0;
+    box-shadow:0 0 20px 0 #171717;
+    top:50%;
+    left:50%;
+    transform:translate(-50%,-50%);
+    position: absolute;
+    
+    
+}
+form{
+    margin:20px ;
+    background-image:url("band.jpg");
+    border-radius:15px;
+    
+    
+    
+}
+.input-field{
+    background:#aaf4ff;
+    width:320px;
+    height:40px;
+    margin-top:20px;
+    padding-left:10px;
+    border:2px #512bff;
+    border-radius:14px;
+    outline:none;
+    color:#0f0f0f;
+}
+.btn{
+    border-radius:20px;
+    color:#eaffff;
+    margin-top:18px;
+    padding:10px;
+    background-color:#662bff;
+    font-size:12px;
+    border:none;
+    cursor :pointer;
+    
+}
